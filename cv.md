@@ -10,6 +10,12 @@
 
 function multiply(a, b){ return a * b; }
 
+function factorial(n) {
+ if (n ❮ 0) return null;
+ if (n === 0) return 1;
+ return n * factorial(n-1);
+}
+
 6. Опыта работы нет.
 
 7. Курсы на Udemy по созданию web-сайтов.
