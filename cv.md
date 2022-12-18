@@ -10,10 +10,10 @@
 
 function multiply(a, b){ return a * b; }
 
-function factorial(n) {
- if (n ❮ 0) return null;
- if (n === 0) return 1;
- return n * factorial(n-1);
+function factorial(n) { <br> 
+ if (n ❮ 0) return null; <br>
+ if (n === 0) return 1; <br>
+ return n * factorial(n-1); <br>
 }
 
 6. Опыта работы нет.
